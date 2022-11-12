@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ernest</h1>
 <h3 align="center">I am a passionate frontend developer student, i love learning new programming language and technologies. I also love seeking help from more experienced people from around the world.</h3>
+img aling="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.saasmantra.com%2Fwp-content%2Fuploads%2F2021%2F03%2FMellowPiercingHammerkop-size_restricted.gif&imgrefurl=https%3A%2F%2Fblog.saasmantra.com%2Fvideo-marketing-to-promote-your-brand%2F&tbnid=ywlDOxCVO9mifM&vet=10CKYBEDMonwFqFwoTCKCR4obKqfsCFQAAAAAdAAAAABAD..i&docid=AHMM54SpQDXJCM&w=500&h=288&q=learning%20tech%20gif%20image&ved=0CKYBEDMonwFqFwoTCKCR4obKqfsCFQAAAAAdAAAAABAD
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichigo9&label=Profile%20views&color=0e75b6&style=flat" alt="ichigo9" /> </p>
 
