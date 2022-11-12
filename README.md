@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ernest</h1>
 <h3 align="center">I am a passionate frontend developer student, i love learning new programming language and technologies. I also love seeking help from more experienced people from around the world.</h3>
-<img aling="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif>
+<img aling="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifW-daQ3F9e1UnyPM_YRUti5FRLEf1LLkTQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichigo9&label=Profile%20views&color=0e75b6&style=flat" alt="ichigo9" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ALT SCH OF ENGR 2nd Semester Exam**
+- 🔭 I’m currently working on **ALT SCH OF ENGR 2nd Semester Exam**[
+](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifW-daQ3F9e1UnyPM_YRUti5FRLEf1LLkTQ&usqp=CAU)
 
 - 🌱 I’m currently learning **JavaScript........ @https://www.altschoolafrica.com/schools/engineering**
 
